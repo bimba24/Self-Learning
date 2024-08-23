@@ -1,2 +1,1 @@
-# Self-Learning
-Different Self Learning Approches-
+# CoT_detailMaths
